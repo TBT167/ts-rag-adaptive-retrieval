@@ -205,3 +205,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large files
+*.pkl
+*.parquet
+*.pth
+datasets/
+retrieval_database/
+checkpoints/
+results/forecast_evaluation/
+*.png
