@@ -215,3 +215,4 @@ retrieval_database/
 checkpoints/
 results/forecast_evaluation/
 *.png
+.DS_Store
