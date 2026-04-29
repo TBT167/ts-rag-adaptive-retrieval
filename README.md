@@ -54,7 +54,7 @@ Same as original TS-RAG. Key dependencies:
 
 ## Authors
 
-Tuana Turhan & Collin — CSC500, Quinnipiac University, 2026
+Tuana Turhan & Collin Kuchachik — CSC500, Quinnipiac University, 2026
 
 ## Based On
 
