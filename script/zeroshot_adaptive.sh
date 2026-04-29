@@ -12,7 +12,7 @@ pretrained_model_path="./checkpoints/chronos-bolt-base"
 top_k=10
 
 batch_size=32
-retrieval_database_dir='../retrieval_database/adaptive/'
+retrieval_database_dir='./retrieval_database/adaptive/'
 
 checkpoint_model_path="./checkpoints/chronos-bolt/best.pth"
 chronos_model_path="./checkpoints/chronos-bolt-base"
